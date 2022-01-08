@@ -5,7 +5,7 @@
 <div>
 
 
-<p align='center'><a href="https://twitter.com/robot0x01">Twitter</a> - <a href="altahery.com">https://altahery.com</a> - <a href="https://www.linkedin.com/in/kernelcode/">LinkedIn</a> </p>
+<p align='center'><a href="https://twitter.com/robot0x01">Twitter</a> - <a href="https://altahery.com">Altahery.com</a> - <a href="https://www.linkedin.com/in/kernelcode/">LinkedIn</a> </p>
 
 <h4 align='center'>
   ‣ TypeScript
