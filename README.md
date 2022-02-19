@@ -1,4 +1,10 @@
 <h1 align='center'> Hello! :wave:</h1>
+
+<p align='center'>
+  <a href="https://app.daily.dev/kernelcode"><img src="https://api.daily.dev/devcards/a6df2768415443a3b01628ddf3083208.png?r=z3f" width="400" alt="Abdullah Al-taheri's Dev Card"/></a>
+</p>
+
+
 <p align='center'>My name is <b>Abdullah</b> and I enjoy building products that live on the cloud.</p>
 
 
