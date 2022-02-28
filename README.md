@@ -25,8 +25,9 @@
 ‣ AWS
 ‣ Web3
   <p>
-    <img src="./dancing-groot.gif" width="60" />
+    <img src="./dancing-groot.gif" width="60" /><br />
+    <img src="https://komarev.com/ghpvc/?username=kernelcode&color=green" />
   </p>
 </h4>
-
+  
 </div>
