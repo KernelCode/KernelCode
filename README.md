@@ -15,8 +15,5 @@
     ‣ AWS
     ‣ Web3
   </h4>  
-  <a href="https://wakatime.com/@bcf2f08e-b52d-4617-acf3-63b27d8108d5">
-     <img src="https://wakatime.com/badge/user/bcf2f08e-b52d-4617-acf3-63b27d8108d5.svg" alt="Total time coded since Dec 12 2022" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=kernelcode&color=green" />
 </div>
