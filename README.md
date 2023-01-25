@@ -8,8 +8,8 @@
     ‣ TypeScript
     ‣ JavaScript (ES6+)
     ‣ React
-    ‣ Gatsby
-    ‣ NodeJS
+    ‣ Next.js
+    ‣ Node.js
     ‣ Express
     ‣ CLIs
     ‣ AWS
