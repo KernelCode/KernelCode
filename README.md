@@ -5,15 +5,13 @@
    <a href="https://altahery.com">Altahery.com</a> - 
    <a href="https://www.linkedin.com/in/kernelcode/">LinkedIn</a>
   <h4>
+    ‣ Web3.0
     ‣ TypeScript
-    ‣ JavaScript (ES6+)
-    ‣ React
     ‣ Next.js
     ‣ Node.js
-    ‣ Express
+    ‣ ExpressJS
     ‣ CLIs
     ‣ AWS
-    ‣ Web3
   </h4>  
-  <img src="https://komarev.com/ghpvc/?username=kernelcode&color=green" />
+   Building <a href="https://muallaqat.io/">Muallaqat</a> 😎
 </div>
